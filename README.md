@@ -2,4 +2,4 @@
 
 常见的代理核心收集
 
-提供代理 https://proxy.runoneall.us.kg/
+如有错误请提交 Issue
