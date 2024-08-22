@@ -9,6 +9,6 @@ Releases下载地址: https://github.com/XTLS/Xray-core/releases
 - VMess
 - Trojan
 - Shadowsocks
-- Socks
+- Socks5
 - http
 - dokodemo-door
