@@ -1,4 +1,4 @@
-截止文档完成, hysteria内核最新版本为 `2.5.1`
+截止文档完成, Hysteria内核最新版本为 `2.5.1`
 
 官方Github: https://github.com/apernet/hysteria
 
